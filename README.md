@@ -8,6 +8,7 @@ Alternatively, pyttsx3 could be used if use_say is set to False, which is still 
 
 ## Requirements
 Mac OS Big Sur 11.4
+
 pyttsx3 == 2.90
 
 ## Install
